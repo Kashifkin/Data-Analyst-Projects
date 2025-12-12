@@ -1,247 +1,116 @@
-📊 Data Analyst Portfolio
+# 📊 Data Analyst Portfolio – Python | SQL | Power BI | Excel
 
-A collection of end-to-end Data Analysis and ETL projects
+Welcome to my Data Analyst Portfolio!  
+This repository contains end-to-end projects that showcase my skills in **data cleaning, analysis, visualization, business insights, SQL querying, and machine learning.**
 
-Welcome to my Data Analyst Portfolio Repository.
-This repo contains multiple real-world datasets where I performed:
+I have worked on **Python EDA projects, Machine Learning models, Customer Churn analytics, ICC Cricket analytics, Spotify analysis, Movie data correlation**, and multiple **Power BI dashboards**.
 
-✔ ETL (Extract → Transform → Load)
+---
 
-✔ Data Cleaning & Preprocessing
+## 🚀 Tools & Technologies Used
 
-✔ Exploratory Data Analysis (EDA)
+### 🐍 **Python**
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-Learn  
 
-✔ Visualization
+### 🗄 **SQL**
+- PostgreSQL  
+- MySQL (basic)  
 
-✔ Statistical Insights
+### 📊 **Visualization Tools**
+- Power BI  
+- Matplotlib  
+- Seaborn  
+- Excel Charts  
 
-✔ Correlation Analysis
+### 🧹 **Data Cleaning**
+- Python (Pandas)  
+- Excel  
+- Power Query  
 
-✔ Machine Learning (Scikit-Learn)
+### 📈 **Machine Learning**
+- Scikit-Learn  
+- Classification Models  
+- Train/Test Split  
+- Evaluation Metrics  
 
-Each project focuses on converting raw data into meaningful insights using Python and analytical techniques.
+---
 
-📁 Projects Included
-1️⃣ Movie Dataset — Correlation Analysis
+## 📁 Project Categories
 
-A deep analysis of movie data focusing on identifying relationships between variables.
+### **1️⃣ Business Analytics Projects**
+These projects solve real business problems using data insights.
 
-🔍 Key Work Done:
+- **Customer Churn Analysis (Python + SQL)**  
+  → Understand why customers leave, analyze churn patterns, and provide recommendations.
 
-Completed ETL on the raw dataset
+---
 
-Cleaned missing values, converted data types
+### **2️⃣ Machine Learning Projects**
+Projects focused on predictive modeling and scikit-learn workflows.
 
-Performed correlation analysis between:
+- **Scikit-Learn Project**  
+  → Trained and compared multiple ML models, performed preprocessing, and evaluated performance.
 
-Budget
+---
 
-Gross revenue
+### **3️⃣ Python EDA & Data Analysis Projects**
+Exploratory projects using Pandas, NumPy, Matplotlib, and Seaborn.
 
-Ratings
+- **ICC 2023 Cricket Analysis**  
+- **Spotify Data Analysis**  
+- **Movie Dataset Correlation Analysis**
 
-Runtime
+These projects include:
+- Data cleaning  
+- Feature engineering  
+- Trend analysis  
+- Correlation insights  
+- Visualization dashboards  
 
-Year
+---
 
-Visualized heatmaps (for both numeric & non-numeric features)
+### **4️⃣ Power BI Dashboards**
+Interactive dashboards designed for business insights.
 
-Extracted insights on what factors most strongly influence movie success
+Includes:
+- Sales dashboard  
+- HR dashboard  
+- Financial dashboard  
+- Subscription dashboard  
+- Customer behavior reports  
+- KPIs, DAX, and dynamic visuals  
 
-2️⃣ ICC Cricket World Cup 2023 — Data Analysis
+These dashboards are also posted on my LinkedIn profile.
 
-A full cricket analytics project exploring performances in the ICC World Cup 2023.
+---
 
-🔍 Key Work Done:
+## 🔍 What You Will Find in Each Project
 
-Full ETL on match, player, and team datasets
+Each project folder contains:
+- Raw or cleaned dataset (if allowed)
+- Python notebooks or SQL scripts
+- Power BI files (for dashboard projects)
+- A detailed README including:
+  - ✔ Business problem  
+  - ✔ Tools used  
+  - ✔ Data cleaning steps  
+  - ✔ EDA / SQL queries  
+  - ✔ Visualizations  
+  - ✔ Key insights  
+  - ✔ Business recommendations  
 
-Cleaned and merged multiple files
+---
 
-Analyzed:
+## 📫 Contact
 
-Top batsmen & bowlers
+**LinkedIn:** https://www.linkedin.com/in/kashif-khan-3ba439247/  
 
-Match results trends
+If you're a recruiter or hiring manager, feel free to explore the projects or reach out for collaboration.
 
-Team-wise performance
+---
 
-Strike rates, economy, partnerships
-
-Created visual stories using Matplotlib & Seaborn
-
-3️⃣ Spotify Data Analysis
-
-A detailed analysis of Spotify tracks dataset.
-
-🔍 Key Work Done:
-
-ETL & normalization of raw CSV
-
-Cleaned categorical and numeric columns
-
-Analyzed:
-
-Popularity trends
-
-Genres & artists
-
-Danceability, energy, tempo, loudness
-
-Visualized distributions and correlations
-
-4️⃣ Machine Learning — Training 3 Models (Scikit-Learn)
-
-A machine-learning-focused mini-project included in the repository.
-
-🔍 Key Work Done:
-
-ETL + Data preprocessing
-
-Feature encoding & scaling
-
-Trained three ML models (example):
-
-Logistic Regression
-
-Random Forest
-
-KNN / SVM
-
-Compared the performance of all models
-
-Visualized evaluation metrics
-
-🛠️ Tech Stack
-
-Python
-
-Pandas, NumPy
-
-Matplotlib, Seaborn
-
-Scikit-Learn
-
-Jupyter Notebook
-
-📌 Goal of This Repository
-
-This repository represents my journey as a Data Analyst, showcasing projects that include:
-
-Real-world datasets
-
-
-1️⃣ E-Commerce Sales SQL Project
-🛒 Overview
-
-A complete SQL project based on an E-commerce business dataset containing customers, products, sales, and order details.
-
-🔧 Work Included
-
-Designed database schema (customers, products, orders, order_items)
-
-Inserted sample business data (products, sales, customer info)
-
-Performed queries from beginner to advanced
-
-Used SQL to analyze customer behavior and sales performance
-
-📊 Analysis Performed
-
-Retrieve active customers
-
-Top-selling products
-
-Revenue per month
-
-Category-wise performance
-
-Average order value
-
-Total revenue generated
-
-Customer ranking by spending
-
-Cumulative revenue (window functions)
-
-RFM Analysis (Recency, Frequency, Monetary)
-
-Detecting outlier transactions
-
-🏗️ Skills Used
-
-PostgreSQL, Aggregation, Window Functions,
-Subqueries, Views, Joins, Indexes,
-Stored Procedures (if included)
-
-2️⃣ Company Employee SQL Project
-🏢 Overview
-
-A SQL project focusing on company workforce data — employees, departments, salaries, managers, and performance metrics.
-
-🔧 Work Included
-
-Created a clean relational schema
-(employees, departments, salaries, performance, projects)
-
-Inserted structured company data
-
-Performed analysis to understand HR & operations insights
-
-📊 Analysis Performed
-
-Employee list with departments
-
-Find highest and lowest salary positions
-
-Department-wise salary expense
-
-Employee performance analytics
-
-Joining date & experience calculation
-
-Identifying employees without assigned projects
-
-Ranking employees by salary or performance
-
-Manager → Employee hierarchy queries
-
-Average salary by department
-
-Attrition analysis (if included)
-
-🛠️ Skills Used
-
-DDL, DML, Joins, Nested Queries,
-Aggregations, Window Functions,
-Constraints, ERD Thinking
-
-🧰 Tools & Technologies
-
-PostgreSQL
-
-PgAdmin / DBeaver
-
-SQL Functions & Window Functions
-
-CTEs & Subqueries
-
-🎯 Purpose of This Repository
-
-This SQL repository showcases my skills as a Data Analyst / SQL Developer, including:
-
-Database design
-
-Writing optimized SQL queries
-
-Solving business problems
-
-Working with transactional & analytical databases
-
-Performing real-world business analysis
-
-ETL process for every project
-
-Clear insights from data
-
-Clean code and reproducible notebooks
+### ⭐ If you like this portfolio, consider giving the repository a star!
