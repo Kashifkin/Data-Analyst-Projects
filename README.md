@@ -1,116 +1,73 @@
-# 📊 Data Analyst Portfolio – Python | SQL | Power BI | Excel
+# 📊 Data Analyst & Business Analytics Portfolio
 
-Welcome to my Data Analyst Portfolio!  
-This repository contains end-to-end projects that showcase my skills in **data cleaning, analysis, visualization, business insights, SQL querying, and machine learning.**
-
-I have worked on **Python EDA projects, Machine Learning models, Customer Churn analytics, ICC Cricket analytics, Spotify analysis, Movie data correlation**, and multiple **Power BI dashboards**.
+Welcome to my Data Analyst Portfolio.  
+This repository contains end-to-end projects across **Business Analytics, Python Data Analysis, Machine Learning, and SQL**, showing my skills in handling real-world data problems.
 
 ---
 
-## 🚀 Tools & Technologies Used
+## 📁 Repository Structure
 
-### 🐍 **Python**
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Scikit-Learn  
-
-### 🗄 **SQL**
-- PostgreSQL  
-- MySQL (basic)  
-
-### 📊 **Visualization Tools**
-- Power BI  
-- Matplotlib  
-- Seaborn  
-- Excel Charts  
-
-### 🧹 **Data Cleaning**
-- Python (Pandas)  
-- Excel  
-- Power Query  
-
-### 📈 **Machine Learning**
-- Scikit-Learn  
-- Classification Models  
-- Train/Test Split  
-- Evaluation Metrics  
+### 🔶 1. Business Projects  
+Projects focused on solving real business problems using data.  
+Tools: Power BI • Excel • SQL • Python  
+Examples:
+- Customer Churn Analysis  
+- Sales Performance Analysis  
+- Customer Segmentation Insights  
 
 ---
 
-## 📁 Project Categories
-
-### **1️⃣ Business Analytics Projects**
-These projects solve real business problems using data insights.
-
-- **Customer Churn Analysis (Python + SQL)**  
-  → Understand why customers leave, analyze churn patterns, and provide recommendations.
-
----
-
-### **2️⃣ Machine Learning Projects**
-Projects focused on predictive modeling and scikit-learn workflows.
-
-- **Scikit-Learn Project**  
-  → Trained and compared multiple ML models, performed preprocessing, and evaluated performance.
+### 🔷 2. Data Analysis Projects  
+Python-based Exploratory Data Analysis (EDA), cleaning, preprocessing and visualization work.  
+Tools: Python • Pandas • NumPy • Matplotlib • Seaborn  
+Examples:
+- ICC Cricket 2023 Analysis  
+- Spotify Data Analysis  
+- Movie Dataset Correlation Study  
 
 ---
 
-### **3️⃣ Python EDA & Data Analysis Projects**
-Exploratory projects using Pandas, NumPy, Matplotlib, and Seaborn.
-
-- **ICC 2023 Cricket Analysis**  
-- **Spotify Data Analysis**  
-- **Movie Dataset Correlation Analysis**
-
-These projects include:
-- Data cleaning  
-- Feature engineering  
-- Trend analysis  
-- Correlation insights  
-- Visualization dashboards  
+### 🧠 3. Machine Learning Projects  
+End-to-end ML workflows including preprocessing, model training and evaluation.  
+Tools: Python • Scikit-Learn • Pandas • Matplotlib  
+Examples:
+- Scikit-Learn Model Training Project  
+- Predictive Analysis Projects  
 
 ---
 
-### **4️⃣ Power BI Dashboards**
-Interactive dashboards designed for business insights.
-
-Includes:
-- Sales dashboard  
-- HR dashboard  
-- Financial dashboard  
-- Subscription dashboard  
-- Customer behavior reports  
-- KPIs, DAX, and dynamic visuals  
-
-These dashboards are also posted on my LinkedIn profile.
+### 🗄️ 4. SQL Projects  
+Query-based analysis, business insights, joins, aggregations, subqueries, and optimization.  
+Tools: PostgreSQL / MySQL  
+Examples:
+- Company / Sales SQL Analysis  
+- E-commerce SQL Project  
 
 ---
 
-## 🔍 What You Will Find in Each Project
-
-Each project folder contains:
-- Raw or cleaned dataset (if allowed)
-- Python notebooks or SQL scripts
-- Power BI files (for dashboard projects)
-- A detailed README including:
-  - ✔ Business problem  
-  - ✔ Tools used  
-  - ✔ Data cleaning steps  
-  - ✔ EDA / SQL queries  
-  - ✔ Visualizations  
-  - ✔ Key insights  
-  - ✔ Business recommendations  
+## 🛠️ Tools & Technologies Used
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)  
+- **SQL** (PostgreSQL, MySQL)  
+- **Power BI** (Dashboards & business insights)  
+- **Excel** (Pivot Tables, Power Query, Advanced Formulas)  
+- **Git & GitHub**  
+- **ETL, Data Cleaning, EDA, Visualization**
 
 ---
 
-## 📫 Contact
+## 📌 About This Portfolio
+This portfolio demonstrates my ability to:
+- Clean and prepare real-world datasets  
+- Perform deep data analysis  
+- Build business-focused dashboards  
+- Develop machine learning models  
+- Write optimized SQL queries  
+- Present insights clearly and professionally  
 
-**LinkedIn:** https://www.linkedin.com/in/kashif-khan-3ba439247/  
+I continue to add new projects regularly.
 
-If you're a recruiter or hiring manager, feel free to explore the projects or reach out for collaboration.
-
+LinkedIn : https://www.linkedin.com/in/kashif-khan-3ba439247/  
 ---
 
-### ⭐ If you like this portfolio, consider giving the repository a star!
+## 📬 Contact
+**LinkedIn:** (Add your link here)  
