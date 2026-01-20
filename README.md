@@ -69,5 +69,4 @@ I continue to add new projects regularly.
 LinkedIn : https://www.linkedin.com/in/kashif-khan-3ba439247/  
 ---
 
-## 📬 Contact
-**LinkedIn:** (Add your link here)  
+
