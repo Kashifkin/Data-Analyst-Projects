@@ -1,4 +1,6 @@
-# 🚗 Car Sales Dashboard
+#  Car Sales Dashboard
+
+<img width="1594" height="696" alt="Car Sales Dashboard" src="https://github.com/user-attachments/assets/8f0c8708-82b7-4cf5-a58b-73b1ee67a5bd" />
 
 
 
