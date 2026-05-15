@@ -66,7 +66,7 @@ This portfolio demonstrates my ability to:
 
 I continue to add new projects regularly.
 
-LinkedIn : https://www.linkedin.com/in/kashif-khan-3ba439247/  
+LinkedIn : https://www.linkedin.com/in/kashif-khan-a699b03b9/
 ---
 
 
