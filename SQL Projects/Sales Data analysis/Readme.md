@@ -37,6 +37,7 @@ SELECT * FROM Sales_Data;
 
 This query identifies which product category generated the highest total revenue.
 
+
 SELECT 
     category, 
     SUM(`Total Revenue`) AS Highest_Revenue
@@ -158,23 +159,34 @@ Highlights the strongest business categories overall.
 SUM()
 AVG()
 COUNT()
+
 ✅ Window Functions
 RANK()
 ROW_NUMBER()
+
 ✅ Common Table Expressions (CTE)
 WITH clause
+
 ✅ Grouping & Sorting
 GROUP BY
 ORDER BY
+
 ✅ Filtering
 LIMIT
+
 📊 Key Business Insights
 
+
 ✔️ Identified top-performing product categories
+
 ✔️ Analyzed customer demographics
+
 ✔️ Tracked monthly revenue growth
+
 ✔️ Detected high-value customers
+
 ✔️ Measured category profitability
+
 ✔️ Ranked categories using advanced SQL functions
 
 📁 Project Structure
