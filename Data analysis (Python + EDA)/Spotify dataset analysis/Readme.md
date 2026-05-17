@@ -93,7 +93,7 @@ Analyzed listener engagement using followers and popularity
 Explored release trends in the music industry
 Simplified complex Spotify datasets using visual analytics
 
-##📌 Features of the Project
+## 📌 Features of the Project
 
 Data Cleaning & Transformation
 Exploratory Data Analysis (EDA)
@@ -102,7 +102,7 @@ Trend Analysis
 Interactive Visualizations
 Music Industry Insights
 
-##🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
 Data Cleaning
 Data Visualization
@@ -111,6 +111,6 @@ Statistical Analysis
 Python Programming
 Business Insight Generation
 
-##✅ Conclusion
+## ✅ Conclusion
 
 This project demonstrates how Spotify music data can be transformed into meaningful insights using Python-based data analytics techniques. The analysis helps understand artist popularity, listener engagement, album trends, and music industry patterns through effective visual storytelling and statistical exploration.
