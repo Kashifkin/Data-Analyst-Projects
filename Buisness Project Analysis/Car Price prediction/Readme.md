@@ -3,6 +3,7 @@
 
 ## Dashboard Preview
 
+<img width="1131" height="632" alt="Car Sales Dashboard" src="https://github.com/user-attachments/assets/b4f01c11-4a2f-415b-8b7f-180117694b6a" />
 
 
 
