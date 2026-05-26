@@ -1,18 +1,6 @@
 CREATE DATABASE data_analyst_project;
 
 
-USE data_analyst_project;
-
-
-CREATE TABLE customer_behavior
-TBLPROPERTIES ('delta.columnMapping.mode' = 'name')
-AS
-SELECT * FROM read_files(
-  '/Volumes/workspace/csv_files/csv_files/Customer_Behavior.csv',
-  format => 'csv',
-  header => true
-);
-
 
 SELECT * FROM customer_behavior;
 
